@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research summary, please cite the dissertation."
+type: thesis
+title: "Leveraging Learning Analytics to Enhance Student Engagement and Success in E-Learning Platforms"
+authors:
+  - family-names: Kanu
+    given-names: "Elizabeth Chinyere"
+date-released: 2024
+abstract: >-
+  An MSc dissertation exploring how learning analytics and LMS behavioral
+  indicators can inform student engagement, academic outcome prediction,
+  and responsible student support in e-learning environments.
